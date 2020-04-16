@@ -1,8 +1,6 @@
 Estou estudando para me tornar Cientista de Dados e nessa pasta eu vou colocar todos os projetos de clustering que eu fizer.
 
-
-Nessa pasta temos dois projetos:
-
+Nessa pasta existem dois projetos:
 1. Clustering dos países do mundo
 
 Clustering(Países).ipynb, que utiliza dados do arquivo Countries-exercise.csv, disponibilizado pela Udemy.
